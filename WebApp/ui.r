@@ -20,7 +20,7 @@ ui <- fluidPage(
   
   sidebarLayout(
     sidebarPanel(
-      p("Shiny Demo App"),
+      p("Classificazione gusto vino"),
       numericInput(
         'acidi_non_volatili',
         'Acidi non volatili (mg/L)',
@@ -98,6 +98,6 @@ ui <- fluidPage(
       ),
     ),
     
-    mainPanel(plotOutput(outputId = "predicted_gusto", height = "500px"))
+    mainPanel(textOutput(outputId = "predicted_gusto"))
     )
   )

@@ -67,6 +67,6 @@ server <- function(input, output) {
           alcol = input$alcol,
           row.names = NULL
       )
-      paste('Gusto predetto:', predict(model, features))
+      paste('Gusto previsto:', predict(model, features))
     })
 }
