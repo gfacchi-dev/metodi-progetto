@@ -1,0 +1,35 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Panoramica}{3}{section.1}%
+\contentsline {paragraph}{Vinho Verde}{3}{section*.2}%
+\contentsline {section}{\numberline {2}Data Acquisiton}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Descrizione del dataset}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Descrizione dei valori delle variabili}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Descrizione delle distribuzioni delle variabili}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Qualità}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Acidi non volatili}{8}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Acidi volatili}{9}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Acido citrico}{10}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Zuccheri residui}{11}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}Cloruri}{12}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}Anidride Solforosa libera}{13}{subsubsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.8}Anidride Solforosa totale}{14}{subsubsection.2.3.8}%
+\contentsline {subsubsection}{\numberline {2.3.9}Densità}{15}{subsubsection.2.3.9}%
+\contentsline {subsubsection}{\numberline {2.3.10}pH}{16}{subsubsection.2.3.10}%
+\contentsline {subsubsection}{\numberline {2.3.11}Solfati}{17}{subsubsection.2.3.11}%
+\contentsline {subsubsection}{\numberline {2.3.12}Percentuale di Alcol}{18}{subsubsection.2.3.12}%
+\contentsline {paragraph}{Conclusione}{18}{section*.3}%
+\contentsline {subsection}{\numberline {2.4}Correlazione tra variabili}{19}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Regressione e Classificazione}{20}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Organizzazione di training e test set}{20}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Regressione}{20}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Regressione Lineare Multipla}{20}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Albero di regressione semplice}{22}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}M5P}{22}{subsubsection.3.2.3}%
+\contentsline {paragraph}{Conclusione}{23}{section*.4}%
+\contentsline {subsection}{\numberline {3.3}Classificazione}{24}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Introduzione}{24}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Albero di classificazione semplice}{25}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Random Forest}{27}{subsubsection.3.3.3}%
+\contentsline {paragraph}{Conclusioni}{31}{section*.5}%
+\contentsline {section}{\numberline {4}Conclusioni}{32}{section.4}%
